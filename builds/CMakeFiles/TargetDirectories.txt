@@ -1,0 +1,9 @@
+C:/Users/kumar/OneDrive/Desktop/mhk/ParkNexa/build/CMakeFiles/ParkNexa.dir
+C:/Users/kumar/OneDrive/Desktop/mhk/ParkNexa/build/CMakeFiles/edit_cache.dir
+C:/Users/kumar/OneDrive/Desktop/mhk/ParkNexa/build/CMakeFiles/rebuild_cache.dir
+C:/Users/kumar/OneDrive/Desktop/mhk/ParkNexa/build/CMakeFiles/list_install_components.dir
+C:/Users/kumar/OneDrive/Desktop/mhk/ParkNexa/build/CMakeFiles/install.dir
+C:/Users/kumar/OneDrive/Desktop/mhk/ParkNexa/build/CMakeFiles/install/local.dir
+C:/Users/kumar/OneDrive/Desktop/mhk/ParkNexa/build/CMakeFiles/install/strip.dir
+C:/Users/kumar/OneDrive/Desktop/mhk/ParkNexa/build/CMakeFiles/ParkNexa_autogen_timestamp_deps.dir
+C:/Users/kumar/OneDrive/Desktop/mhk/ParkNexa/build/CMakeFiles/ParkNexa_autogen.dir
